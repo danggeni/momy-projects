@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.momy.erp",
+      "nativeLanguage": "ko"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "erp",
+    "packageName": "com.momy.erp",
+    "packageFolder": "com/momy/erp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTVhZTFkMTkyYTNjYTgzZTM3OWNiYzI1NGI2YzZhYTRlNWI2NDMxNDJhM2IzMWE0ODc3YmE4YzBjMGQzNjQzZDQzZmExYWI2NDBlYmZiNDAyNjY3YjMzNDRhY2Y0MDFhMTQzN2IyMDIxYWVkOGEzZTYyOGFlY2FhZGRhMTY4MGI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1608018194610,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "ko",
+    "languages": ["ko", "en"],
+    "blueprints": []
+  }
+}
